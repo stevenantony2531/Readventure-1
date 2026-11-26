@@ -1,0 +1,6 @@
+{
+  "name": "Readventure",
+  "description": "Platform membaca interaktif dan petualangan literasi anak dengan misi harian, pustaka pribadi, peringkat petualang, studio karakter, dan dashboard orang tua.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
